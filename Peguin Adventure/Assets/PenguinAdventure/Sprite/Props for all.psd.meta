@@ -1,0 +1,2441 @@
+fileFormatVersion: 2
+guid: e1a176977afd80244a3753157c5d1dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Fruit Banana
+  - first:
+      213: 21300002
+    second: Fruit Nho
+  - first:
+      213: 21300004
+    second: Fruit_2
+  - first:
+      213: 21300006
+    second: Fruit Watermelon
+  - first:
+      213: 21300008
+    second: Fruit Thom
+  - first:
+      213: 21300010
+    second: Fruit_5
+  - first:
+      213: 21300012
+    second: Fruit_6
+  - first:
+      213: 21300014
+    second: Fruit Dau
+  - first:
+      213: 21300016
+    second: Fruit_8
+  - first:
+      213: 21300018
+    second: Fruit Dau
+  - first:
+      213: 21300020
+    second: Fruit_10
+  - first:
+      213: 21300022
+    second: Fruit_11
+  - first:
+      213: 21300024
+    second: Fruit Ot
+  - first:
+      213: 21300026
+    second: Fruit_13
+  - first:
+      213: 21300028
+    second: Fruit_14
+  - first:
+      213: 21300030
+    second: Fruit_7
+  - first:
+      213: 21300032
+    second: Fruit_15
+  - first:
+      213: 21300034
+    second: Fruit_16
+  - first:
+      213: 21300036
+    second: Fruit Carrot
+  - first:
+      213: 21300038
+    second: Fruit_18
+  - first:
+      213: 21300040
+    second: Fruit_19
+  - first:
+      213: 21300042
+    second: Fruit Bap
+  - first:
+      213: 21300044
+    second: Fruit_21
+  - first:
+      213: 21300046
+    second: Fruit_22
+  - first:
+      213: 21300048
+    second: Fruit_23
+  - first:
+      213: 21300050
+    second: Fruit_24
+  - first:
+      213: 21300052
+    second: Fruit_25
+  - first:
+      213: 21300054
+    second: Fruit_26
+  - first:
+      213: 21300056
+    second: Fruit Cherry
+  - first:
+      213: 21300058
+    second: Bridge falling
+  - first:
+      213: 21300060
+    second: Props for all_4
+  - first:
+      213: 21300062
+    second: Props for all_6
+  - first:
+      213: 21300064
+    second: Props for all_7
+  - first:
+      213: 21300066
+    second: Chanh
+  - first:
+      213: 21300068
+    second: Props for all_9
+  - first:
+      213: 21300070
+    second: Props for all_11
+  - first:
+      213: 21300072
+    second: Props for all_12
+  - first:
+      213: 21300074
+    second: Props for all_14
+  - first:
+      213: 21300076
+    second: Props for all_15
+  - first:
+      213: 21300078
+    second: Props for all_16
+  - first:
+      213: 21300080
+    second: Props for all_17
+  - first:
+      213: 21300082
+    second: Props for all_19
+  - first:
+      213: 21300084
+    second: Props for all_20
+  - first:
+      213: 21300086
+    second: Props for all_22
+  - first:
+      213: 21300088
+    second: Props for all_23
+  - first:
+      213: 21300090
+    second: Props for all_24
+  - first:
+      213: 21300092
+    second: Props for all_25
+  - first:
+      213: 21300094
+    second: Props for all_26
+  - first:
+      213: 21300096
+    second: Props for all_27
+  - first:
+      213: 21300098
+    second: Fruit Chanh
+  - first:
+      213: 21300100
+    second: Platform I
+  - first:
+      213: 21300102
+    second: Box-Metal
+  - first:
+      213: 21300104
+    second: Box-Plus
+  - first:
+      213: 21300106
+    second: Box-Wooden
+  - first:
+      213: 21300108
+    second: Platform
+  - first:
+      213: 21300110
+    second: Loxo 3
+  - first:
+      213: 21300112
+    second: Loxo 2
+  - first:
+      213: 21300114
+    second: Loxo 1
+  - first:
+      213: 21300116
+    second: Platform II
+  - first:
+      213: 21300118
+    second: Dirt I
+  - first:
+      213: 21300120
+    second: Box-Plus
+  - first:
+      213: 21300122
+    second: Box-Metal
+  - first:
+      213: 21300124
+    second: Box-Wooden
+  - first:
+      213: 21300126
+    second: Gai-Top
+  - first:
+      213: 21300128
+    second: Gai-Bottom
+  - first:
+      213: 21300130
+    second: Monster 01
+  - first:
+      213: 21300132
+    second: Monster 02 - hand.R
+  - first:
+      213: 21300134
+    second: Monster 02 - body
+  - first:
+      213: 21300136
+    second: Monster 02 - hand.L
+  - first:
+      213: 21300138
+    second: Monster 02 - leg.R
+  - first:
+      213: 21300140
+    second: Monster 02 - leg.L
+  - first:
+      213: 21300142
+    second: Monster 03 - hand.R
+  - first:
+      213: 21300144
+    second: Monster 03 - hand.L
+  - first:
+      213: 21300146
+    second: Monster 03 - body
+  - first:
+      213: 21300148
+    second: Monster 03 - leg.R
+  - first:
+      213: 21300150
+    second: Monster 03 - leg.L
+  - first:
+      213: 21300152
+    second: Cannon-Body
+  - first:
+      213: 21300154
+    second: Cannon-Standing
+  - first:
+      213: 21300156
+    second: Box-Wooden 2
+  - first:
+      213: 21300158
+    second: Box-Wooden 1
+  - first:
+      213: 21300160
+    second: Box-Wooden 3
+  - first:
+      213: 21300162
+    second: Box-Wooden 4
+  - first:
+      213: 21300164
+    second: Mixground Night
+  - first:
+      213: 21300166
+    second: Pipe - Blue
+  - first:
+      213: 21300168
+    second: Pipe - Green
+  - first:
+      213: 21300170
+    second: Props for all_2
+  - first:
+      213: 21300172
+    second: Pipe - Blue - Mid
+  - first:
+      213: 21300174
+    second: Monster Pipe Cang.R
+  - first:
+      213: 21300176
+    second: Monster Pipe Cang.L
+  - first:
+      213: 21300178
+    second: Monster Pipe Body
+  - first:
+      213: 21300180
+    second: Pipe - Green Mid
+  - first:
+      213: 21300182
+    second: Saw Blade Small
+  - first:
+      213: 21300184
+    second: Saw Blade Big
+  - first:
+      213: 21300186
+    second: Water
+  - first:
+      213: 21300188
+    second: Wave1
+  - first:
+      213: 21300190
+    second: Wave2
+  - first:
+      213: 21300192
+    second: Wave3
+  - first:
+      213: 21300194
+    second: Water BG
+  - first:
+      213: 21300196
+    second: Water Front
+  - first:
+      213: 21300198
+    second: Wooden
+  - first:
+      213: 21300200
+    second: Box Float
+  - first:
+      213: 21300202
+    second: Saved Point
+  - first:
+      213: 21300204
+    second: Monster Bird Body
+  - first:
+      213: 21300206
+    second: Monster Bird Swing.R
+  - first:
+      213: 21300208
+    second: Monster Bird Swing.L
+  - first:
+      213: 21300210
+    second: Monster Bird Swing.R
+  - first:
+      213: 21300212
+    second: Monster Fish Body
+  - first:
+      213: 21300214
+    second: Monster Fish tail
+  - first:
+      213: 21300216
+    second: Monster Fish vay
+  - first:
+      213: 21300218
+    second: Tutorial
+  - first:
+      213: 21300220
+    second: Fire 1
+  - first:
+      213: 21300222
+    second: Fire 2
+  - first:
+      213: 21300224
+    second: Fire 3
+  - first:
+      213: 21300226
+    second: Fire 4
+  - first:
+      213: 21300228
+    second: Fire 5
+  - first:
+      213: 21300230
+    second: Monster 04
+  - first:
+      213: 21300232
+    second: Monster eye
+  - first:
+      213: 21300234
+    second: Fish
+  - first:
+      213: 21300236
+    second: Big-Bullet
+  - first:
+      213: 21300238
+    second: Monster 05
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fruit Banana
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Nho
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 937
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Thom
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 935
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge falling
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 996
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 939
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Watermelon
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 935
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 882
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 879
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Chanh
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 879
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 872
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Dau
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 871
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 808
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 809
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Ot
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 800
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 810
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 812
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 734
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 743
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Carrot
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 735
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 741
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 742
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Bap
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 738
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 666
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 664
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 666
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 687
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 677
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 677
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fruit Cherry
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 876
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform I
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 995
+        width: 152
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform II
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 190
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loxo 3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loxo 2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loxo 1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dirt I
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 182
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box-Plus
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 107
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box-Metal
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 106
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gai-Top
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 46
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gai-Bottom
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 01
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 65
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 02 - hand.R
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 14
+        height: 52
+      alignment: 9
+      pivot: {x: 0.4663876, y: 0.1742165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 02 - body
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 02 - hand.L
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 14
+        height: 51
+      alignment: 9
+      pivot: {x: 0.56722695, y: 0.16321522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 02 - leg.R
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 23
+        height: 11
+      alignment: 9
+      pivot: {x: 0.7045985, y: 0.90640813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 02 - leg.L
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 24
+        height: 11
+      alignment: 9
+      pivot: {x: 0.3137312, y: 0.9277979}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 03 - hand.R
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 43
+        height: 27
+      alignment: 9
+      pivot: {x: 0.8330497, y: 0.09372683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 03 - hand.L
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.20545247, y: 0.0886486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 03 - body
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 19
+        width: 78
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6325879, y: 0.12014448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 03 - leg.R
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 20
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5974991, y: 0.8916685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 03 - leg.L
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: 0.27147216, y: 0.8216309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon-Body
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 249
+        width: 166
+        height: 121
+      alignment: 9
+      pivot: {x: 0.37532172, y: 0.35542637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon-Standing
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 248
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box-Wooden 2
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 136
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box-Wooden 1
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 136
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box-Wooden 3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box-Wooden 4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mixground Night
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe - Blue
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 379
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 11, z: 34, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe - Green
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 381
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 9, z: 40, w: 27}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props for all_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe - Blue - Mid
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 380
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Pipe Cang.R
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.872024, y: 0.14915965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Pipe Cang.L
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 80
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.12797782, y: 0.1560955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Pipe Body
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pipe - Green Mid
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 383
+        width: 96
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saw Blade Small
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saw Blade Big
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 455
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water BG
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 834
+        width: 512
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Front
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 698
+        width: 512
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2
+        width: 216
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box Float
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 108
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saved Point
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 106
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Bird Body
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 129
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Bird Swing.R
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 116
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: 0.9068534, y: 0.8507373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Bird Swing.L
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 115
+        width: 23
+        height: 13
+      alignment: 9
+      pivot: {x: 0.12791476, y: 0.78058976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Fish Body
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 85
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Fish tail
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 109
+        width: 10
+        height: 26
+      alignment: 9
+      pivot: {x: 0.16351776, y: 0.57686764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Fish vay
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 88
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.060928345, y: 0.2534256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 106
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire 1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 498
+        width: 73
+        height: 152
+      alignment: 9
+      pivot: {x: 0.40374494, y: 0.022079267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire 2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 498
+        width: 73
+        height: 152
+      alignment: 9
+      pivot: {x: 0.4038437, y: 0.02257819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire 3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 498
+        width: 73
+        height: 152
+      alignment: 9
+      pivot: {x: 0.44422328, y: 0.023664575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire 4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 498
+        width: 79
+        height: 152
+      alignment: 9
+      pivot: {x: 0.40009782, y: 0.02209794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire 5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 498
+        width: 78
+        height: 152
+      alignment: 9
+      pivot: {x: 0.4041803, y: 0.023667987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 04
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster eye
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 87
+        width: 36
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5044081, y: 0.19037403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 973
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bullet
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 588
+        width: 114
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster 05
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 9
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Big-Bullet: 21300236
+      Box Float: 21300200
+      Box-Metal: 21300102
+      Box-Plus: 21300104
+      Box-Wooden 1: 21300158
+      Box-Wooden 2: 21300156
+      Box-Wooden 3: 21300160
+      Box-Wooden 4: 21300162
+      Bridge falling: 21300058
+      Cannon-Body: 21300152
+      Cannon-Standing: 21300154
+      Dirt I: 21300118
+      Fire 1: 21300220
+      Fire 2: 21300222
+      Fire 3: 21300224
+      Fire 4: 21300226
+      Fire 5: 21300228
+      Fish: 21300234
+      Fruit Banana: 21300000
+      Fruit Bap: 21300042
+      Fruit Carrot: 21300036
+      Fruit Chanh: 21300098
+      Fruit Cherry: 21300056
+      Fruit Dau: 21300014
+      Fruit Nho: 21300002
+      Fruit Ot: 21300024
+      Fruit Thom: 21300008
+      Fruit Watermelon: 21300006
+      Gai-Bottom: 21300128
+      Gai-Top: 21300126
+      Loxo 1: 21300114
+      Loxo 2: 21300112
+      Loxo 3: 21300110
+      Mixground Night: 21300164
+      Monster 01: 21300130
+      Monster 02 - body: 21300134
+      Monster 02 - hand.L: 21300136
+      Monster 02 - hand.R: 21300132
+      Monster 02 - leg.L: 21300140
+      Monster 02 - leg.R: 21300138
+      Monster 03 - body: 21300146
+      Monster 03 - hand.L: 21300144
+      Monster 03 - hand.R: 21300142
+      Monster 03 - leg.L: 21300150
+      Monster 03 - leg.R: 21300148
+      Monster 04: 21300230
+      Monster 05: 21300238
+      Monster Bird Body: 21300204
+      Monster Bird Swing.L: 21300208
+      Monster Bird Swing.R: 21300206
+      Monster Fish Body: 21300212
+      Monster Fish tail: 21300214
+      Monster Fish vay: 21300216
+      Monster Pipe Body: 21300178
+      Monster Pipe Cang.L: 21300176
+      Monster Pipe Cang.R: 21300174
+      Monster eye: 21300232
+      Pipe - Blue: 21300166
+      Pipe - Blue - Mid: 21300172
+      Pipe - Green: 21300168
+      Pipe - Green Mid: 21300180
+      Platform I: 21300100
+      Platform II: 21300116
+      Props for all_11: 21300070
+      Props for all_12: 21300072
+      Props for all_14: 21300074
+      Props for all_15: 21300076
+      Props for all_16: 21300078
+      Props for all_17: 21300080
+      Props for all_19: 21300082
+      Props for all_2: 21300170
+      Props for all_20: 21300084
+      Props for all_22: 21300086
+      Props for all_23: 21300088
+      Props for all_24: 21300090
+      Props for all_25: 21300092
+      Props for all_26: 21300094
+      Props for all_27: 21300096
+      Props for all_4: 21300060
+      Props for all_6: 21300062
+      Props for all_7: 21300064
+      Props for all_9: 21300068
+      Saved Point: 21300202
+      Saw Blade Big: 21300184
+      Saw Blade Small: 21300182
+      Tutorial: 21300218
+      Water BG: 21300194
+      Water Front: 21300196
+      Wooden: 21300198
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
